@@ -1,0 +1,30 @@
+s3
+aws apmlify
+ec2
+iam
+
+STEP EC2
+
+sign in to console
+search ec2
+click on instances
+click on instances id
+connect 
+ssh client
+copy the ssh path
+open comand prompt
+cd downloads
+icacls Myserver1-keypair.pem /inheritance:r /grant:r "%username%:R"
+ssh file path
+
+git clone https://github.com/angad-anand/test.git
+ls
+cd test
+sudo apt-get update
+sudo apt install npm
+npm i
+
+npm start
+
+
+create a user using IAM service (tomorrow)
